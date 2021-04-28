@@ -1,0 +1,18 @@
+body {
+  background-color: #999b84;
+}
+
+hr {
+  border-color: olive;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+h1 {
+  color: tan;
+}
+
+h3 {
+  color: tan;
+}
